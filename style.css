@@ -1,0 +1,36 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.grouped{
+    margin: auto;
+    width: 50%;
+}
+
+.underlined{
+    text-decoration: underline;
+}
+
+.highlight{
+    background-color: orange;
+}
+
+.red_color{
+    color: red;
+}
+
+.story{
+    position: relative;
+    left: auto;
+    text-align: justify;
+
+}
+
+.image{
+    margin: auto;
+    display: block;
+    width: 98%;
+    
+
+}
