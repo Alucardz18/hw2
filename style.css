@@ -5,7 +5,10 @@ body{
 
 .grouped{
     margin: auto;
-    width: 50%;
+    max-width: 700px;
+    width: 90%;
+    text-align: left;
+    font-size: larger;
 }
 
 .underlined{
@@ -18,19 +21,24 @@ body{
 
 .red_color{
     color: red;
+    font-weight: bolder;
 }
 
 .story{
-    position: relative;
-    left: auto;
-    text-align: justify;
+    margin: 0;
 
 }
 
-.image{
-    margin: auto;
+.image {
     display: block;
-    width: 98%;
-    
+    width: 100%;        
+    max-height: 500px;  
+    height: auto;       
+    margin: auto;
+}
 
+.returnPage{
+    font-style: oblique;
+    font-size:x-large;
+    font-weight: bolder;
 }
